@@ -62,17 +62,7 @@ streamlit run app.py
 
 ## Deployment
 
-This application is deployed on Streamlit Cloud. You can access it at: [Your-Streamlit-URL]
-
-For deploying on Streamlit Cloud, make sure to add these commands in your `packages.txt`:
-```
-libomp
-```
-
-And in your `requirements.txt`:
-```
-catboost==1.2.2
-```
+This application is deployed on Streamlit Cloud. You can access it at: (https://fraud-detector-2486.streamlit.app/)
 
 ## License
 

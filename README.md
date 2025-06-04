@@ -25,28 +25,6 @@ A real-time credit card fraud detection system built with Streamlit and machine 
 - Plotly
 - Matplotlib
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone [your-repository-url]
-```
-
-2. Install libomp (required for CatBoost on macOS):
-```bash
-brew install libomp
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the application:
-```bash
-streamlit run app.py
-```
-
 ## Usage
 
 1. Choose your preferred input method:
